@@ -1,0 +1,44 @@
+Homework
+
+1) Numbers , strings , boolean theory !!!
+
+
+Write programm :
+
+1) Get user name 
+
+Expect : “jOhN”
+
+Result  : ”John” 
+
+2) Get user surname and split it by latter 
+
+DOE
+D O E 
+
+3) Get user age and return year of birth 
+
+4) Equal userAge and : 15 ; 23 ;13 and print it to the screen ;
+
+To every option use : <= , >= , < , > , ==
+
+int()
+
+5) “
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro laudantium nihil
+laborum rerum ipsum iure dicta officiis, necessitatibus non vel excepturi minima
+quia fugiat hic numquam suscipit harum laboriosam magni quasi veniam voluptas
+eius sapiente aperiam vero? Eum ducimus consequuntur, accusamus tempore corporis
+numquam animi hic ad voluptatem saepe mollitia voluptate explicabo soluta earum!
+Consequatur porro eos minus facilis mollitia alias nesciunt. Molestias explicabo
+alias ea praesentium placeat ex ad maxime ipsam non velit architecto, iure
+laborum reiciendis pariatur dolorem amet nulla dolor quos a esse atque vel? Fuga
+quidem perspiciatis velit iure excepturi. Delectus velit amet distinctio error
+temporibus at voluptas suscipit laboriosam rerum ea, quibusdam nesciunt maiores
+quas necessitatibus fugit veniam, molestiae inventore dignissimos voluptatum
+libero enim natus! Cum, corrupti ad.
+”
+
+-Find “ad” position 
+-Slice “ad” from text
+-Replace all “Lorem” on “Hey you”
